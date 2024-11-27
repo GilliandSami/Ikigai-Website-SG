@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sami Universe</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://maverick.canhtran.me/tags/</link>
     <description>Recent content in Tags on Sami Universe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/atom.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maverick.canhtran.me/tags/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biology</title>
-      <link>http://localhost:1313/tags/biology/</link>
+      <link>https://maverick.canhtran.me/tags/biology/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/biology/</guid>
+      <guid>https://maverick.canhtran.me/tags/biology/</guid>
       <description></description>
     </item>
     <item>
       <title>Brand Promise</title>
-      <link>http://localhost:1313/tags/brand-promise/</link>
+      <link>https://maverick.canhtran.me/tags/brand-promise/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brand-promise/</guid>
+      <guid>https://maverick.canhtran.me/tags/brand-promise/</guid>
       <description></description>
     </item>
     <item>
       <title>Branding</title>
-      <link>http://localhost:1313/tags/branding/</link>
+      <link>https://maverick.canhtran.me/tags/branding/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/branding/</guid>
+      <guid>https://maverick.canhtran.me/tags/branding/</guid>
       <description></description>
     </item>
     <item>
       <title>Consumer Behavior</title>
-      <link>http://localhost:1313/tags/consumer-behavior/</link>
+      <link>https://maverick.canhtran.me/tags/consumer-behavior/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/consumer-behavior/</guid>
+      <guid>https://maverick.canhtran.me/tags/consumer-behavior/</guid>
       <description></description>
     </item>
     <item>
       <title>Design</title>
-      <link>http://localhost:1313/tags/design/</link>
+      <link>https://maverick.canhtran.me/tags/design/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/design/</guid>
+      <guid>https://maverick.canhtran.me/tags/design/</guid>
       <description></description>
     </item>
     <item>
       <title>Outils</title>
-      <link>http://localhost:1313/tags/outils/</link>
+      <link>https://maverick.canhtran.me/tags/outils/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/outils/</guid>
+      <guid>https://maverick.canhtran.me/tags/outils/</guid>
       <description></description>
     </item>
     <item>
       <title>Psychology</title>
-      <link>http://localhost:1313/tags/psychology/</link>
+      <link>https://maverick.canhtran.me/tags/psychology/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/psychology/</guid>
+      <guid>https://maverick.canhtran.me/tags/psychology/</guid>
       <description></description>
     </item>
     <item>
       <title>Strategy</title>
-      <link>http://localhost:1313/tags/strategy/</link>
+      <link>https://maverick.canhtran.me/tags/strategy/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/strategy/</guid>
+      <guid>https://maverick.canhtran.me/tags/strategy/</guid>
       <description></description>
     </item>
     <item>
       <title>Typography</title>
-      <link>http://localhost:1313/tags/typography/</link>
+      <link>https://maverick.canhtran.me/tags/typography/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/typography/</guid>
+      <guid>https://maverick.canhtran.me/tags/typography/</guid>
       <description></description>
     </item>
     <item>
       <title>Veille</title>
-      <link>http://localhost:1313/tags/veille/</link>
+      <link>https://maverick.canhtran.me/tags/veille/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/veille/</guid>
+      <guid>https://maverick.canhtran.me/tags/veille/</guid>
       <description></description>
     </item>
     <item>
       <title>Bruce Willis</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>https://maverick.canhtran.me/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://maverick.canhtran.me/tags/hugo/</guid>
       <description></description>
     </item>
   </channel>
