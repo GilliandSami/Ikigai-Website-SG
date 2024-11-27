@@ -5,29 +5,33 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # Étape 1 : Checkout du code
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # Étape 2 : Installer Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
 
+      # Étape 3 : Construire le site Hugo
       - name: Build Hugo Site
         run: hugo --minify
 
+      # Étape 4 : Déployer sur GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          
-permissions:
-  contents: read
-  pages: write 
-  id-token: write
