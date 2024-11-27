@@ -1,12 +1,17 @@
-name: Deploy Static HTML
+name: Deploy Hugo Site to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # Branche principale où se trouve votre code source
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       # Étape 1 : Checkout du code
@@ -23,9 +28,9 @@ jobs:
       - name: Build Hugo Site
         run: hugo --minify
 
-      # Étape 4 : Déployer les fichiers statiques
+      # Étape 4 : Déployer sur GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: actions/upload-pages-artifact@v1
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          path: ./public
-
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
